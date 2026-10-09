@@ -2,6 +2,7 @@
 # E-commerce Product Analytics
 
 Аналитический проект на данных бразильского marketplace Olist.
+**Направление:** Product Analytics / Data Analytics
 
 ## Цель проекта
 
