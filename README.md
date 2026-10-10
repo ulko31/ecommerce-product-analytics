@@ -1,4 +1,3 @@
-#№ ecommerce-product-analytics
 # E-commerce Product Analytics
 
 Аналитический проект на данных бразильского marketplace Olist.
